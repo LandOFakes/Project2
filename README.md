@@ -26,5 +26,7 @@ All values from the classmates are preserved. Library counts are not unique peop
 ## Assistance and contributions
 ChatGPT assisted with transcription and drafting code, validation, explanations, figures and the report. Precious Brown selected the meat topic and the classmates' datasets, supplied the discussion materials, and requested the purple presentation and credits. No independent student authorship of the generated code is asserted. Before submitting, review the code and document any additional personally written changes by cell or section, consistent with the syllabus.
 
+I also created the GitHub repository, uploaded the project materials, and organized the source datasets, figures, and analysis outputs into their designated folders. This established the repository structure expected by the notebook’s relative file paths. These contributions involved project organization and submission preparation; I did not modify the supplied analysis code.
+
 ## Submit
 Upload the extracted project contents to GitHub, preserving the data folder. Open PBrownProject2.ipynb and copy its actual GitHub page URL. Submit that URL, PBrownProject2.docx and PBrownProject2.ipynb through the course submission page. A single notebook covers all three datasets. The Markdown file is not a substitute for the required Word document. No repository has been created or uploaded automatically.

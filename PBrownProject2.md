@@ -14,6 +14,8 @@ Joseph and Shehou receive credit for the datasets they posted, not for the trans
 ### Code assistance and contributions
 ChatGPT assisted with drafting the original meat example, transcribing the supplied discussion tables, and drafting the Python code, validation checks, explanations, charts, and report. Precious Brown selected the meat-sales topic, selected the two classmates' posts, supplied their contents, and requested the purple presentation and explicit dataset credits. The classmates supplied their respective discussion datasets. This attribution does not claim that Precious independently wrote the generated code. Any later student-written changes should be identified by cell or section before submission.
 
+I also created the GitHub repository, uploaded the project materials, and organized the source datasets, figures, and analysis outputs into their designated folders. This established the repository structure expected by the notebook’s relative file paths. These contributions involved project organization and submission preparation; I did not modify the supplied analysis code.
+
 ### Running the notebook
 Extract the project folder and open this notebook from that folder. Install the packages in requirements.txt and run all cells in order. The three original CSV files must remain inside data. Output CSVs and figures are regenerated in output and figures. No internet connection is needed for the analysis.
 
