@@ -1,0 +1,13 @@
+branch,age_group,books_borrowed,computer_sessions
+Downtown,Kids (0-12),520,110
+Downtown,Teens (13-18),180,320
+Downtown,Adults (19-64),940,580
+Downtown,Seniors (65+),610,210
+Northside,Kids (0-12),340,85
+Northside,Teens (13-18),115,210
+Northside,Adults (19-64),620,390
+Northside,Seniors (65+),450,140
+West End,Kids (0-12),210,45
+West End,Teens (13-18),90,160
+West End,Adults (19-64),430,290
+West End,Seniors (65+),380,95

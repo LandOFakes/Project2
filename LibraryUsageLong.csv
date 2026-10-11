@@ -1,0 +1,25 @@
+branch,service_type,age_group,usage_count
+Downtown,Books Borrowed,Kids (0-12),520
+Downtown,Computer Sessions,Kids (0-12),110
+Northside,Books Borrowed,Kids (0-12),340
+Northside,Computer Sessions,Kids (0-12),85
+West End,Books Borrowed,Kids (0-12),210
+West End,Computer Sessions,Kids (0-12),45
+Downtown,Books Borrowed,Teens (13-18),180
+Downtown,Computer Sessions,Teens (13-18),320
+Northside,Books Borrowed,Teens (13-18),115
+Northside,Computer Sessions,Teens (13-18),210
+West End,Books Borrowed,Teens (13-18),90
+West End,Computer Sessions,Teens (13-18),160
+Downtown,Books Borrowed,Adults (19-64),940
+Downtown,Computer Sessions,Adults (19-64),580
+Northside,Books Borrowed,Adults (19-64),620
+Northside,Computer Sessions,Adults (19-64),390
+West End,Books Borrowed,Adults (19-64),430
+West End,Computer Sessions,Adults (19-64),290
+Downtown,Books Borrowed,Seniors (65+),610
+Downtown,Computer Sessions,Seniors (65+),210
+Northside,Books Borrowed,Seniors (65+),450
+Northside,Computer Sessions,Seniors (65+),140
+West End,Books Borrowed,Seniors (65+),380
+West End,Computer Sessions,Seniors (65+),95
